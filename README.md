@@ -1,12 +1,12 @@
 Hi 👋 My name is Ayomide Bamidele
 =================================
 
-Full Stack Web Developer
+Software Engineer
 ------------------------
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ayomidefaseun1267@gmail.com](mailto:ayomidefaseun1267@gmail.com)
-*   🧠  I'm currently learning NextJs and Redux toolkit
+*/   🧠  I'm currently learning NextJs and Redux toolkit*/
 *   🤝  I'm open to collaborating on any projects you have in mind
 *   ⚡  I am in so much love with the MCU. Spiderman is my favorite hero
 *
